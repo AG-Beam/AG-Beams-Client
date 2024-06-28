@@ -1,0 +1,276 @@
+# AG-Beam Client Features
+
+1. **Meteor Client Features**
+   - Advanced ESP (Entity-Selection-Protection)
+   - Auto-fishing automation
+   - Chat management tools
+   - Combat enhancements (Auto-crystal, Auto-sword, Kill aura)
+   - Custom HUD (Heads-Up Display) configurations
+   - Elytra flight assistance
+   - Fast place and mine features
+   - Freecam mode for exploration
+   - Inventory management tools
+   - Scaffold building automation
+
+2. **Blackout Features**
+   - Anti-cheat bypass capabilities
+   - Customizable GUI (Graphical User Interface)
+   - Custom keybinds for actions
+   - NoFall protection
+   - PvP (Player versus Player) improvements
+   - SafeWalk for stealth movement
+   - Scaffold walk for building support
+   - Timer manipulation for optimal gameplay
+
+3. **Meteor Add-Ons**
+   - Additional modules for extended functionality
+   - Customizable macros for automated tasks
+   - Enhanced rendering for better visuals
+   - Extended reach for interaction
+   - Player tracking and targeting features
+   - Potion effects management
+   - Resource gathering optimizations
+   - Waypoints for navigation assistance
+
+4. **Meteor Rejects**
+   - Custom settings for performance optimization
+   - Improved anti-crash measures
+   - Inventory tweaks for efficiency
+   - Lightweight footprint for lower resource usage
+   - Multi-threaded processing support
+   - Real-time updates for latest Minecraft versions
+   - Scripting capabilities for advanced users
+   - Terrain generation adjustments
+
+5. **Server Seeker**
+   - Server management tools (Ping, Status, etc.)
+   - Server list management and sorting
+   - Server optimization suggestions
+   - Server-side plugins compatibility
+   - Server version compatibility checks
+   - Server-wide announcements
+   - User-friendly server interface
+   - Whitelist management features
+
+Hack List 
+## Meteor
+
+1. AutoMine: Automatically mines blocks when looking at them.
+2. AutoEat: Automatically eats food when hunger is low.
+3. ESP (Entity-Selection-Protection): Highlights selected entities like mobs or players.
+4. X-Ray: Allows visibility of specific blocks through others.
+5. Scaffold: Automatically places blocks beneath you as you move.
+6. Freecam: Detaches the camera from the player to explore surroundings.
+7. AutoTotem: Automatically equips totems in off-hand slots for protection.
+8. AutoFish: Automatically catches fish while fishing.
+9. AutoArmor: Automatically equips the best armor available.
+10. Waypoints: Mark and teleport to locations of interest.
+11. KillAura: Automatically attacks nearby entities.
+12. Criticals: Ensures critical hits on every attack.
+13. NoFall: Prevents fall damage.
+14. SafeWalk: Automatically adjusts movement to avoid falling.
+15. FastPlace: Increases the speed of block placement.
+16. NoSlowDown: Maintains regular speed when moving through liquids or cobwebs.
+17. InventorySorter: Automatically organizes inventory items.
+18. ClickGUI: Graphical user interface for selecting and toggling hacks.
+19. AntiCheatBypass: Prevents detection and bans from server anti-cheat systems.
+20. PlayerFinder: Locates nearby players.
+
+## Blackout
+
+21. FastBreak: Increases mining speed.
+22. Fullbright: Brightens the entire game world.
+23. Tracers: Draws lines to players, mobs, or items.
+24. AutoWalk: Automatically moves in a specified direction.
+25. NoClip: Passes through solid objects.
+26. Sprint: Automatically sprints.
+27. Glide: Allows gliding through the air.
+28. AutoTool: Automatically selects the best tool for the job.
+29. AutoSoup: Automatically consumes soup for healing.
+30. NoRotate: Fixes your facing direction to maintain a straight line.
+31. NoSwing: Prevents the swinging animation when attacking.
+32. Reach: Extends reach distance for interactions.
+33. BowAimbot: Automatically aims bows for accurate shots.
+34. Timer: Adjusts game speed.
+35. Velocity: Absorbs knockback to reduce impact.
+
+## Meteor Add-Ons
+
+36. AntiAFK: Prevents being kicked for inactivity.
+37. ChatBypass: Bypasses chat filters.
+38. FastLadder: Increases climbing speed on ladders.
+39. NoWeather: Prevents weather effects.
+40. NoRender: Disables rendering of certain entities or effects.
+
+## Meteor Rejects
+
+41. AutoClicker: Automatically clicks at a specified rate.
+42. SafeWalk: Adjusts movement to avoid falling off edges.
+43. Step: Automatically steps up blocks.
+44. NoSlow: Prevents slowdown from eating or using items.
+45. Jesus: Walks on water.
+
+## Server Seeker
+
+46. ServerFinder: Locates and lists available servers.
+47. PingSpoof: Manipulates ping information sent to servers.
+48. ProxySupport: Supports proxies for server connections.
+49. AntiVPN: Bypasses VPN detection on servers.
+50. CustomServerList: Customizes and organizes server listings.
+
+## Additional Features
+
+51. AutoRespawn: Automatically respawns upon death.
+52. AutoMinecart: Automatically rides minecarts.
+53. AutoSneak: Automatically sneaks to avoid detection.
+54. AutoJump: Automatically jumps when needed.
+55. AntiGravity: Reduces or eliminates gravity effects.
+56. AutoCraft: Automatically crafts items based on available resources.
+57. Anti-Fire: Protects against fire damage.
+58. AutoWool: Automatically shears sheep for wool.
+59. AutoPlant: Automatically plants seeds or saplings.
+60. AutoHarvest: Automatically harvests crops or plants.
+
+## Utility Features
+
+61. Coordinates: Displays current coordinates on-screen.
+62. FPS Boost: Optimizes game performance for smoother gameplay.
+63. ChatCommands: Executes commands directly from chat.
+64. NoClip: Passes through solid objects for exploration.
+65. SafeWalk: Adjusts movement to prevent falling off edges.
+66. Waypoints: Marks and teleports to saved locations.
+67. MapRender: Renders maps from explored areas.
+68. AutoTorch: Places torches automatically in dark areas.
+69. AutoSmelt: Automatically smelts mined ores.
+70. ChestESP: Highlights chests for easier looting.
+
+## Visual Enhancements
+
+71. HUD: Customizable heads-up display for key information.
+72. ColoredNameTags: Colors name tags for player identification.
+73. Animations: Adds visual effects for interactions.
+74. Brightness: Adjusts game brightness for visibility.
+75. CustomTextures: Changes textures for items or blocks.
+
+## Miscellaneous
+
+76. AutoDisconnect: Automatically disconnects from undesirable servers.
+77. AutoLogin: Logs in automatically to selected servers.
+78. AutoJoin: Joins specified servers upon launch.
+79. AntiSpawnKill: Protects against spawn camping or killing.
+80. AutoMessage: Sends pre-defined messages in chat.
+
+## Security
+
+81. AntiBot: Identifies and blocks bot activity.
+82. AntiHack: Detects and prevents unauthorized modifications.
+83. AntiCrash: Prevents crashes caused by certain actions.
+84. AntiLag: Reduces server lag for smoother gameplay.
+
+## Administrative Tools
+
+85. OP-Hacks: Tools for server administrators.
+86. AdminMode: Grants access to administrative functions.
+87. Ban-Bypass: Bypasses bans on servers.
+88. CommandSpy: Monitors and logs server commands.
+
+## Performance Optimization
+
+89. LagReduction: Optimizes settings for reduced lag.
+90. FPSBoost: Improves frame rates for smoother gameplay.
+
+## Customization
+
+91. Keybinds: Customizable key bindings for actions.
+92. GUIOptions: Customizes graphical user interface elements.
+93. ThemeSupport: Supports different themes for visual customization.
+
+## Compatibility
+
+94. ForgeSupport: Compatible with Minecraft Forge.
+95. FabricSupport: Compatible with Fabric mod loader.
+96. OptiFineSupport: Supports OptiFine for enhanced visuals.
+97. MultiplayerSupport: Works seamlessly on multiplayer servers.
+98. SingleplayerSupport: Functions well in singleplayer worlds.
+
+## Updates and Maintenance
+
+99. WeeklyUpdates: Regular updates for bug fixes and new features.
+100. Maintenance: Continuous maintenance and support for optimal performance.
+## Full List 
+
+1. **HUD Customization**: Customize HUD elements to suit gameplay preferences.
+2. **Auto Clicker**: Automated clicking for efficiency in gameplay.
+3. **KillAura**: Enhanced combat abilities with automatic targeting.
+4. **X-Ray**: Reveals hidden ores and structures for resource gathering.
+5. **ESP**: Enhanced visuals for entities, items, and players.
+6. **Tracers**: Visual indicators to track entities and players.
+7. **Fullbright**: Brightens dark areas for improved visibility.
+8. **Freecam**: Explore surroundings without being physically present.
+9. **Scaffold**: Automatic block placement for building.
+10. **Auto Farming**: Automated farming for crops and livestock.
+11. **Fast Bridge**: Rapidly build bridges while crossing gaps.
+12. **NoFall**: Prevent fall damage for safer exploration.
+13. **Velocity**: Manage knockback and movement physics.
+14. **AntiAFK**: Prevent automatic kick for inactivity.
+15. **Auto Eat**: Automatically consume food for sustained health.
+16. **Auto Potion**: Manage potion consumption and effects.
+17. **Flight**: Enable flight mode for aerial navigation.
+18. **Speed**: Increase movement speed for faster travel.
+19. **Anti-Knockback**: Resist knockback effects during combat.
+20. **Reach**: Extend melee and interaction range.
+21. **Auto Armor**: Automatically equip best available armor.
+22. **Auto Tool**: Optimal tool selection for efficient resource gathering.
+23. **Anti-Bot**: Detect and counter automated bot behaviors.
+24. **Anti-Cheat Bypass**: Avoid detection by server-side anti-cheat plugins.
+25. **Inventory Tweaks**: Streamline inventory management and sorting.
+26. **Chat Macros**: Quick chat messages for communication.
+27. **World Download**: Save and download copies of Minecraft worlds.
+28. **Coordinates Display**: Show current coordinates for navigation.
+29. **Waypoints**: Mark and navigate to specific locations.
+30. **Lunar Client Compatibility**: Integration with Lunar Client features.
+31. **Optifine Compatibility**: Enhanced graphics and performance options.
+32. **Custom Keybindings**: Personalize key assignments for actions.
+33. **Auto Fishing**: Automated fishing for leisure and resources.
+34. **Loot Tables**: Customize item drops and loot rates.
+35. **Auto Totem**: Automatic activation of totem of undying for survival.
+36. **Auto Sprint**: Continuous sprinting without manual input.
+37. **Custom Crosshair**: Personalized crosshair designs and styles.
+38. **Resource Pack Integration**: Seamless integration with custom resource packs.
+39. **NoClip**: Move through solid objects for exploration.
+40. **Entity Radar**: Detect nearby entities and their positions.
+41. **Anti-Ghost Hand**: Prevent ghost items from dropping.
+42. **Auto-Respawn**: Automatic respawn upon death.
+43. **Auto-Disconnect**: Manage server disconnections and reconnects.
+44. **Auto-Clicker Customization**: Adjust clicker settings for specific tasks.
+45. **Anti-Sound**: Suppress in-game sounds for stealth.
+46. **Anti-Lag**: Optimize client performance for smoother gameplay.
+47. **Server Finder**: Locate and connect to optimal Minecraft servers.
+48. **Auto-Updater**: Automatic client updates for latest features.
+49. **Customizable GUI**: Personalize graphical user interface elements.
+50. **No Weather**: Control and manipulate weather conditions.
+51. **Custom Server List**: Manage and organize favorite servers.
+52. **Auto Mine**: Automated mining for resource gathering.
+53. **Anti-Spectator**: Prevent spectator mode interference.
+54. **Auto-Feed**: Manage hunger levels automatically.
+55. **Fast Use**: Accelerated item usage for efficiency.
+56. **Projectile Prediction**: Predict projectile trajectories for accurate shots.
+57. **Auto-Enchant**: Optimize enchantment choices for items.
+58. **Custom FOV**: Adjust field of view settings for visual preferences.
+59. **Auto-Jump**: Automatically jump over obstacles.
+60. **Auto-Mount**: Instantly mount available entities (horses, boats, etc.).
+61. **Auto-Disenchant**: Remove enchantments from items automatically.
+62. **Custom Render Distance**: Adjust view distance for performance.
+63. **Auto-Configure**: Automatic configuration adjustments for optimal settings.
+64. **Anti-Slowdown**: Counteract movement slowdown effects.
+65. **Auto-Respawn Anchor**: Manage respawn anchor charges automatically.
+66. **Auto-Block**: Automatic blocking for defense.
+67. **Auto-Craft**: Automated crafting for item production.
+68. **Auto-Mob Farming**: Efficiently farm mobs for resources.
+69. **Auto-Entity Farming**: Automated farming for specific entities.
+70. **Custom Server Connect**: Streamlined server connection process.
+71. **Anti-Hunger**: Manage hunger and saturation levels.
+72. **Auto-Inventory Management**: Optimize inventory space usage.
+73. **Custom Server Search**: Search and filter Minecraft servers.
+74. **Auto-Pathfinding**: Navigate complex terrains automatically.
+75. **Customizable Hotkeys**: Assign hotkeys for quick access to features.
