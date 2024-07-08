@@ -1,6 +1,6 @@
 ---
 Clients Name: "UnNamed"
-Clients & Add-on's Used: "Meteor, Blackout, Meteor Add-Ons, Meteor Rejects, and Server Seeker.
+Clients & Add-on's Used: "Meteor, Blackout, Meteor Add-Ons, Meteor Rejects, boze, mio, rusher hack,earth hack and Server Seeker.
 "
 Mods : " 77 "
 Changes : " 392 "
